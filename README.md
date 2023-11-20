@@ -1,6 +1,6 @@
-# TennisRankingGuess
+# TNNS
 
-TennisRankingGuess is a JavaScript and HTML project that challenges users to guess the current rankings of tennis players based on video clips sourced from a tennis API. It provides an interactive and enjoyable way for tennis enthusiasts to test their knowledge of player rankings.
+TNNS is a JavaScript and HTML project that challenges users to guess the current rankings of tennis players based on video clips sourced from a tennis API. It provides an interactive and enjoyable way for tennis enthusiasts to test their knowledge of player rankings.
 
 ## Features:
 - **Video Clips:** Engaging tennis match clips from a video API.
@@ -21,7 +21,7 @@ TennisRankingGuess is a JavaScript and HTML project that challenges users to gue
 ## Getting Started:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/TennisRankingGuess.git
+   git clone https://github.com/your-username/native__tnns.git
    cd TennisRankingGuess
    ```
 
