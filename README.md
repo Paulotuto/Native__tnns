@@ -21,7 +21,7 @@ TNNS is a JavaScript and HTML project that challenges users to guess the current
 ## Getting Started:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/native__tnns.git
+   git clone https://github.com/your-username/Native__tnns.git
    cd TennisRankingGuess
    ```
 
