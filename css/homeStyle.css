@@ -1,0 +1,61 @@
+body {
+    display: flex;
+    font-family: Arial, sans-serif;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(34, 34, 34);
+}
+
+.logo {
+    width: 20%;
+    height: auto;
+}
+
+.start {
+    width: 15%;
+    height: auto;
+    display: block; /* Ajoutez cette ligne pour ajuster la propriété d'affichage */
+    margin: 0 auto; /* Ajoutez cette ligne pour centrer l'image horizontalement */
+    transition: 1s;
+}
+
+.start:hover{
+    transition: 1s;
+    transform: scale(1.11);
+}
+
+
+.language-selector {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.language-selector a {
+    margin-right: 10px;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+
+.post {
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: rgb(27, 27, 27);
+    transition: 1s;
+}
+
+.post:hover{
+    background-color: rgba(255, 174, 25, 0.164);
+    transition: 1s;
+}
+
+h1 {
+    color: #b6b4b4;
+    font-size: 50px;
+}
